@@ -7,7 +7,7 @@
 </div>
 
 
-## <img style="object-position: 0px 10px;" width=40 src="assets/custom-icon.png" alt="alternative icon"> About me
+## <img width=40 src="assets/custom-icon.png" alt="alternative icon"> About me
 
 Welcome to my Github Profile! I am a computer science student. During my free time, I enjoy programming and learning about new technologies. 
 
