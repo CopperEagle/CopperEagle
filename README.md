@@ -15,7 +15,7 @@ If you want to know more, please stand by! The profile is in active development 
 
 
 ## Languages, Tools and OSes
-<div style="background-color:grey">
+<a style="background-color:grey">
  <!--Python-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <!--C++-->
@@ -34,7 +34,7 @@ If you want to know more, please stand by! The profile is in active development 
  <!--Windows-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="40" height="40"/>&nbsp;
 
-</div>
+</a>
 
 
 ## Pinned
