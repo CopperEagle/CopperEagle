@@ -9,9 +9,9 @@
 
 ## <img width=40 src="assets/custom-icon.png" alt="alternative icon"> About me
 
-Welcome to my Github Profile! I am a computer science student. During my free time, I enjoy programming and learning about new technologies 💻. 
+Welcome to my Github Profile! I am a computer science student. During my free time, I enjoy programming and learning about new technologies. 
 
-If you want to know more, please stand by! The profile is in active development 😁...
+If you want to know more, please stand by! The profile is in active development...
 
 
 ## Languages, Tools and OSes
