@@ -1,4 +1,21 @@
-### Hi there 👋
+<!--<br>-->
+<div align="center">
+<img width=550 src="assets/name.png" alt="CopperEagle lettering">
+<br>
+</div>
+
+
+## <img width=40 src="assets/custom-icon.png" alt="alternative icon"> About me
+
+Welcome to my Github Profile! I am a computer science student. During my free time, I enjoy programming and learning about new technologies 💻. 
+
+If you want to know more, please stand by! The profile is in active development 😁...
+
+
+## Pinned
+
+[![WebChecks](https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=WebChecks&theme=github_dark)](https://github.com/CopperEagle/WebChecks)
+[![Visualplane](https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=Visualplane&theme=github_dark)](https://github.com/CopperEagle/Visualplane)
 
 <!--
 **CopperEagle/CopperEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
