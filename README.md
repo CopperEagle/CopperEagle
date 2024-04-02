@@ -1,7 +1,8 @@
 <br>
 <br>
 <div align="center">
-<img width=550 src="assets/name.png" alt="CopperEagle lettering">
+<img width=550 src="assets/name.png#gh-dark-mode-only" alt="CopperEagle lettering">
+<img width=550 src="assets/name-black.png#gh-light-mode-only" alt="CopperEagle lettering">
 <br>
 <br>
 </div>
