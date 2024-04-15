@@ -41,34 +41,6 @@ If you want to know more, please stand by! The profile is in active development.
 ## Pinned
 
 <div style="box-sizing:border-box; display: flex;">
-    <a href="https://github.com/CopperEagle/WebChecks">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=WebChecks&theme=github_dark&description_lines_count=3"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=WebChecks&theme=default&description_lines_count=3"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
-        </picture>
-    </a>
-    <a href="https://github.com/CopperEagle/Visualplane">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=Visualplane&theme=github_dark&description_lines_count=3"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=Visualplane&theme=default&description_lines_count=3"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
-        </picture>
-    </a>
-</div>
-<div style="box-sizing:border-box; display: flex;">
     <a href="https://github.com/CopperEagle/SmartFileLibrary">
         <picture>
             <source
@@ -82,7 +54,35 @@ If you want to know more, please stand by! The profile is in active development.
             <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
         </picture>
     </a>
-
+    <a href="https://github.com/CopperEagle/WebChecks">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=WebChecks&theme=github_dark&description_lines_count=3"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=WebChecks&theme=default&description_lines_count=3"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
+        </picture>
+    </a>
+    
+</div>
+<div style="box-sizing:border-box; display: flex;">
+    <a href="https://github.com/CopperEagle/Visualplane">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=Visualplane&theme=github_dark&description_lines_count=3"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=Visualplane&theme=default&description_lines_count=3"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
+        </picture>
+    </a>
 </div>
 
 ### Views
