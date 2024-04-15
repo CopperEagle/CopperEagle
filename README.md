@@ -51,28 +51,30 @@ If you want to know more, please stand by! The profile is in active development.
     </a>
 </div>
 <div style="box-sizing:border-box; display: flex;">
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=github_dark&description_lines_count=3"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
-    </picture>
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=github_dark&description_lines_count=3"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
-    </picture>
+    <a href="https://github.com/CopperEagle/WebChecks">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=github_dark&description_lines_count=3"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
+        </picture>
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=github_dark&description_lines_count=3"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CopperEagle&repo=SmartFileLibrary&theme=default&description_lines_count=3">
+        </picture>
+    </a>
 
 </div>
 
