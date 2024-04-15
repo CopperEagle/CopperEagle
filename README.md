@@ -85,9 +85,6 @@ If you want to know more, please stand by! The profile is in active development.
     </a>
 </div>
 
-### Views
-
-<img src="https://public-view-counter.glitch.me/get_counter?id=id23e32ecf54p">
 
 <!--
 **CopperEagle/CopperEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
