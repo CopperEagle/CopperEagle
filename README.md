@@ -84,6 +84,8 @@ If you want to know more, please stand by! The profile is in active development.
     </a>
 </div>
 
+## Vulnerabilities found
+CVE-2024-34062: Injection attack in the popular [tqdm](https://github.com/tqdm/tqdm) repository. Announcement in the works.
 
 <!--
 **CopperEagle/CopperEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
