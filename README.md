@@ -40,7 +40,7 @@ If you want to know more, please stand by! The profile is in active development.
 ## Vulnerabilities found
 CVE-2024-34062: Injection attack in the popular [tqdm](https://github.com/tqdm/tqdm) repository. Fixed in v4.66.3. [Vulnerability Report](https://github.com/tqdm/tqdm/security/advisories/GHSA-g7vv-2v7x-gj9p)
 
-## Finding me
+## Reaching out to me
 You can find me in the [community discussions](https://github.com/orgs/community/discussions), answering other peoples' questions because it's fun.
 
 ## Pinned
