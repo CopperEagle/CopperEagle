@@ -12,7 +12,9 @@
 
 Welcome to my Github Profile! I am a computer science student. During my free time, I enjoy programming and learning about new technologies. 
 
-If you want to know more, please stand by! The profile is in active development...
+I am currently preparing for exams so I will reduce my activity - I will be more active again soon 😄 See you :heart:
+
+<!--If you want to know more, please stand by! The profile is in active development...-->
 
 
 ## Languages, Tools and OSes
